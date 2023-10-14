@@ -1,0 +1,9 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ë”®Ğ²1
+\
+java:S1118
+":Add a private constructor to hide the implicit public one.(‡Àºûÿÿÿÿ8õ”®Ğ²1
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8û”®Ğ²1
+G	java:S106"+Replace this use of System.out by a logger.(êÙ‡¨8ü”®Ğ²1
+E	java:S108")Either remove or fill this block of code.(ï­£Ä8ı”®Ğ²1
